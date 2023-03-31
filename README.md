@@ -1,5 +1,5 @@
 # Login App
-A new Flutter project.
+A Login page built in flutter framework
 
 ## Getting Started
 
